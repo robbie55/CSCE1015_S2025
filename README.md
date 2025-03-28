@@ -3,10 +3,6 @@
 Assignment for Module 9 --- Version Control
 
 ## EUID
-am3287
+rjm0318
 ## Favorite Professor
-asdf
-## rjm0318
-
-## Prof Keathly
-$(Prof Keathly)
+Prof Keathly
